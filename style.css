@@ -1,0 +1,199 @@
+body{
+    margin:0%;
+    padding:0%;
+}
+
+.bg-image{
+    background-image: url(https://img.besthqwallpapers.com/Uploads/1-10-2017/22261/passenger-plane-airfreight-airplane-in-the-air-flight-modern-airliners.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+h5{
+    margin-top: 0px;
+    margin: 0 auto;
+    color: white;
+    text-align: left;
+}
+.heading{
+    display: flex;
+}
+nav{
+    /* text-align: right; */
+    /* margin-top: 20px; */
+    float: right;
+    word-spacing: 10px;
+    margin-left: 573px;
+    
+
+}
+nav {
+    /* text-align: right; */
+    margin-top: 2px;
+    float: right;
+    word-spacing: 10px;
+    margin-left: 573px;
+   
+    
+    /* border:3px solid gray; */
+}
+/* ul{
+    display: flex;
+    list-style-type: none;
+   
+}
+ul li{
+    color: red;
+    word-spacing: 20px;
+    display: inline-block;
+} */
+a{
+    color:white;
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+    /* background-color:cornflowerblue; */
+}
+.sub-div{
+   background-image:url(https://c4.wallpaperflare.com/wallpaper/773/722/397/boeing-777-british-airways-aircraft-hd-wallpaper-2560%C3%971600-wallpaper-thumb.jpg);
+   width: 510px;;
+   height: 200px;
+   background-size: cover;
+}
+.paragraph1{
+    position: absolute;
+    margin-left: 450px;
+    /* margin: 0% auto; */
+    color: yellow;
+    /* align-items: center; */
+    /* margin-left: 50px; */
+    border: 3px solid black;
+    padding: 30px;
+    color: black;
+    height: 100px;
+    width: 300px;
+
+}
+.flex2{
+    /* display: flex; */
+    /* height: 200px;
+    width: 1500px; */
+    background-color: rgb(29, 139, 217);
+    padding: 20px;
+}
+.image1
+{
+    /* background-color: blue;
+    /* width: 400px;
+    height: 200px; */
+    margin-left: 300px;
+    height:200px; 
+    width:200px;
+} 
+.image2
+{
+    margin-left: 10px;
+    height:200px;
+    width: 200px;
+    
+} 
+.image3
+{
+    margin-left:10px;
+    height:200px;
+    width: 200px;
+    
+} 
+.paragraph2{
+    color: white;
+    margin-left:120px;
+   font-size: larger;
+}
+.paragraph3{
+    color: white;
+    /* margin-right: 20px; */
+    margin-left: 450px;
+    margin-top: -42px;
+    text-align: justify;
+    padding: 6px;
+}
+button{
+    margin-top: -140px;
+    float: right;
+    width: 100px;
+    height: 40px;
+    background-color: orange;
+    color: white;
+    border: none;
+}
+.paragraph5{
+    font-size: larger;
+   
+    margin-left:200px;
+}
+.paragraph6{
+    /* text-transform: capitalize; */
+    font-size: larger;
+    margin-left:200px;
+}
+.para1{
+    color: darkblue;
+    background-color: white;
+    margin-left: 150px;
+}
+.sub-para{
+    color: darkblue;
+    
+    
+}
+.reading1{
+    display: flex;
+    margin-left: 200px;
+
+}
+
+.sub1{
+   
+    
+    /* margin-left: -68px;
+    margin-top: 50px; */
+    /* text-align: center; */
+    color: black;
+
+}
+.button{
+    width: 80px;
+    margin-top: -41px;
+    height: 30px;
+    background-color: orange;
+    color: white;
+    border: none;
+    margin-left: 600px;
+}
+.title{
+    margin-left: 30px;
+    text-align: left;
+    font-size: 30px;
+    color:wheat;
+}
+.reading2{
+    margin-left: 197px;
+    display: flex
+}
+.head{
+    margin-left: 50px;
+
+}
+.head2{
+    margin-left: 80px;
+}
+
+.sub2 {
+    color: black;
+    margin-left: -4px;
+}
+.sub3{
+    color: black;
+    margin-left: 4px;
+}
